@@ -1,0 +1,15 @@
+table, tr, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+
+}
+
+.unorder-list {
+    list-style-type:lower-alpha;
+    font-size: 1.5rem;
+}
+
+.order-list {
+    font-size: 1.5rem;
+}
