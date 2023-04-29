@@ -1,15 +1,36 @@
-table, tr, td {
-    border: 1px solid;
-    border-collapse: collapse;
-    text-align: center;
+body {
+    background-color:rgb(209, 186, 155);
+}
+
+header {
+    background-color: beige;
+    border-radius: 15px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding-bottom: 30px;
+    padding-top: 30px;
 
 }
 
-.unorder-list {
-    list-style-type:lower-alpha;
-    font-size: 1.5rem;
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+    font-family: 'Lato', sans-serif;
+    padding: 100px;
+    
+    
+    
+
+}
+a:hover {
+    color: white;
+
 }
 
-.order-list {
-    font-size: 1.5rem;
+.logo {
+    font-size: 2.5rem;
 }
