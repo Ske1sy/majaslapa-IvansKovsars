@@ -10,7 +10,7 @@
     margin-right: 30px;
     margin-bottom: 40px;
     margin-top: 20px;
-    background-color:#e0f8ff;
+    background: linear-gradient(90deg, #8AE714 0%, #FED130 100%);
     border-radius: 20px;
 }
 
@@ -19,7 +19,8 @@ body {
     font-size: 2rem;
     line-height: 1.5;
     color: #737373;
-    background-color: #f0fcff;
+    background: #FFF0BB;
+
 }
 
 .header {
@@ -38,7 +39,8 @@ body {
 }
 
 .logo:hover {
-    color:#98e2f5;
+    color: #EEFF2E
+;
 }
 
 .menu {
@@ -58,27 +60,59 @@ body {
 }
 
 .menu li a:hover {
-    color:#98e2f5;
+    color:#EEFF2E;
 
 
 }
 
 .images {
-    display: inline;
-    margin: 0 auto;
-    padding: 10px 0px 50px 0px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
 
 }
 .photo {
+    width: 46rem;
+    height: 27rem;
+    padding-bottom: 30px;
     border-radius: 5px;
-    width: 700px;
-    height: 500px;
 
 }
 
-.text {
-    margin-left: 10%;
-    margin-right: 40%;
-    padding-right: 30px;
+.saturs {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    max-width: 1500px;
+    padding-right: 25px;
     text-align: justify;
+    color: black;
+    height: auto;
+}
+
+table{
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: gray;
+
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.tabula{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.hihihaha {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
