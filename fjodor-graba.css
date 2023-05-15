@@ -15,7 +15,6 @@ html {
     background: linear-gradient(90deg, #4f7ae9 0%, #6d53e3 100%);
 
     border-radius: 20px;
-6D53E3
 }
 body {
 
@@ -91,6 +90,7 @@ body {
 
     color:#98e2f5;
     box-sizing: border-box;
+}
 
 .ocgo {
       border-radius: 100%;
