@@ -1,2 +1,0 @@
-# majaslapa-IvansKovsars
-barhatnaja taga
