@@ -95,7 +95,6 @@ table{
     box-sizing: border-box;
     text-indent: initial;
     border-spacing: 2px;
-    border-color: gray;
 
 }
 
@@ -110,8 +109,13 @@ tbody {
     border-collapse: collapse;
 }
 
-.hihihaha {
+#div-tabula {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.virsraksts {
+    background-color: #737373;
+    border: none;
 }
