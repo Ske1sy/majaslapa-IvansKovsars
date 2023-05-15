@@ -8,7 +8,7 @@
 }
 
 body {
-    font-family: 'Lato', sans-serif;
+    font-family:'Ubuntu', sans-serif;
     font-size: 2rem;
     line-height: 1.5;
     color: #000;
@@ -17,8 +17,6 @@ body {
 
 .text {
     position: absolute;
-    font-family: 'Inter';
-    font-style: italic;
     font-weight: 40;
     line-height: 44px;
     margin-right: 50%;
